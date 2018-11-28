@@ -1,2 +1,2 @@
-# hello-wordl
-Firts repos, Hello-world 
+# hello-world
+First branch for first repos, Hello-world 
